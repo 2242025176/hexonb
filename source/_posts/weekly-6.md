@@ -6,12 +6,6 @@
 
 
 
-
-
-[TOC]
-
-
-
 # 永远的 jQuery
 
 ![](https://wx1.sinaimg.cn/mw2000/537f5932gy1grpoww5sroj21hu1jrb29.jpg)
