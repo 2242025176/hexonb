@@ -1,7 +1,7 @@
 ---
 title: jquery常用语法
 categories: jquery #分类
-tags: 常用  #标签
+tags: jquery  #标签
 ---
 
 
