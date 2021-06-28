@@ -9,7 +9,7 @@
 
 # 永远的 jQuery
 
-![](https://wx1.sinaimg.cn/mw2000/537f5932gy1grpoww5sroj21hu1jrb29.jpg)
+![](https://pic3.zhimg.com/50/v2-9f27917328505f9d0ea08730bef0b08a_r.jpg)
 
 注：jquery 最后一次握手的是 [sveltejs](https://www.sveltejs.cn/) 
 
