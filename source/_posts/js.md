@@ -1,5 +1,6 @@
 ---
     title: js常用
+    date: 2021-06-27
     categories: javascript #分类
     tags: javascript  #标签
 ---

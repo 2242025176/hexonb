@@ -1,5 +1,6 @@
 ---
 title: jquery常用语法
+date: 2021-06-27
 categories: jquery #分类
 tags: jquery  #标签
 ---

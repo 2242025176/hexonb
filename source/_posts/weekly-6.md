@@ -1,5 +1,6 @@
 ---
     title: 月刊
+    date: 2021-06-28
     categories: 月刊 #分类
     tags:  月刊 #标签
 ---
