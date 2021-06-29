@@ -8,6 +8,10 @@ date: 2020-09-26 20:19:30
 
 163邮箱：www224202@163.com
 
+微博：https://weibo.com/u/5521674299
 
+微信公众号：
+
+<img src="..\images\gzh.jpg" style="zoom: 67%;" />
 
 
