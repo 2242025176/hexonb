@@ -70,9 +70,9 @@ data(){
 }
 ```
 
-### 2.2  v-text （ 等同于{{}}）：
+### 2.2  v-text ：
 
-```vue
+```html
 <span v-text="msg"></span>
     //和下面的一样 v-text && {{}} 绑定效果是一样的 
  <span>{{msg}}</span>
