@@ -74,7 +74,7 @@ data(){
 
 ```vue
 <span v-text="msg"></span>
-    <!-- 和下面的一样 v-text && {{}} 绑定效果是一样的 -->
+    //和下面的一样 v-text && {{}} 绑定效果是一样的 
  <span>{{msg}}</span>
 ```
 
