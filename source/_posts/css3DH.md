@@ -492,11 +492,11 @@ div:hover
 
 ## 1.分页 ：
 
-<img src="..\images\fy.jpg"  style="zoom: 67%;"/>
+<img src="https://hexo-woad-xi.vercel.app/images/fy.jpg"  style="zoom: 67%;"/>
 
 ## 2.面包屑：
 
-<img src="..\images\mbx.jpg"  style="zoom: 67%;"/>
+<img src="https://hexo-woad-xi.vercel.app/images/mbx.jpg"  style="zoom: 67%;"/>
 
 ------
 
@@ -530,7 +530,7 @@ div:hover
 
 
 
-<img src="..\images\box-1.jpg" style="zoom: 67%;" />
+<img src="https://hexo-woad-xi.vercel.app/images/box-1.jpg" style="zoom: 67%;" />
 
 ## 2.使用 CSS3 box-sizing 属性
 
@@ -554,7 +554,7 @@ div2 {
 
 > 可以看见下面红色块不会受到`padding`而影响到`div`的宽高,只会改变内容的边距
 
-<img src="..\images\box-2.jpg" style="zoom: 67%;" />
+<img src="https://hexo-woad-xi.vercel.app/images/box-2.jpg" style="zoom: 67%;" />
 
 
 ------
