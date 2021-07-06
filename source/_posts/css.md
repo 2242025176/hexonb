@@ -122,24 +122,7 @@ body,html{
 }
 ```
 
-## 10.css 媒体查询：
-
-```css
-.test{
-			width: 500px;
-			height: 400px;
-			background-color: red;
-		}
-@media screen and (max-width: 900px){
-			.test{
-				width: 100%;
-				height:200px;
-				background-color:blue;
-			}
-		}
-```
-
-## 11.在一个盒子中 文本超出隐藏，超出部分显示 `...`
+## 10.在一个盒子中 文本超出隐藏，超出部分显示 `...`
 
 
 
