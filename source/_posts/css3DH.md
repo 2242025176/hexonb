@@ -492,11 +492,11 @@ div:hover
 
 ## 1.分页：
 
-![](../images/fy.png)
+![](..\images\fy.png)
 
 ## 2.面包屑：
 
-![](../images/mbx.png)
+![](..\images\mbx.png)
 
 
 
@@ -532,7 +532,7 @@ div:hover
 
 
 
-![](../images/box-1.png)
+![](..\images\box-1.png)
 
 ## 2.使用 CSS3 box-sizing 属性
 
@@ -556,7 +556,7 @@ div2 {
 
 > 可以看见下面红色块不会受到`padding`而影响到`div`的宽高,只会改变内容的边距
 
-![](../images/box-2.png)
+![](..\images\box-2.png)
 
 
 
