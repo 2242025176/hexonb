@@ -1,6 +1,6 @@
 ---
     title: redux
-    date: 2021-7-07
+    date: 2021-07-07
     categories: react #分类
     tags: redux  #标签
 ---
