@@ -626,18 +626,18 @@ valine:
   enable: true
   appid: Bj11hfKwbSyzRsPh2H59W2mu-MdYXbMMI
   appkey: dqUGExCCsIqY8PR9LRx2jgtL
-  notify: false # Mail notifier
-  verify: false # Verification code
+  notify: false # Mail notifier 邮件通知
+  verify: false # Verification code 验证码
   placeholder: 评论填写处，有什么建议或者文章中有什么错误还麻烦指出 # Comment box placeholder
-  avatar: retro # Gravatar style
-  guest_info: nick,mail,link # Custom comment header
-  pageSize: 10 # Pagination size
+  avatar: retro # Gravatar style 功能风格 就是头像
+  guest_info: nick,mail,link # Custom comment header 自定义注释头
+  pageSize: 10 # Pagination size 分页大小
   language: zh-CN # Language, available values: en, zh-cn
-  visitor: false # Article reading statistic
-  comment_count: true # If false, comment count will only be displayed in post page, not in home page
+  visitor: true # Article reading statistic 文章阅读统计
+  comment_count: false # If false, comment count will only be displayed in post page, not in home page
   recordIP: false # Whether to record the commenter IP
   serverURLs: # When the custom domain name is enabled, fill it in here (it will be detected automatically by default, no need to fill in)
-  enableQQ: true
+  enableQQ: true #填写qq会获取到头像名称
   #post_meta_order: 0
 
 # LiveRe comments system
