@@ -1,6 +1,6 @@
 ---
     title: vue-router-路由
-    date: 2021-07-3
+    date: 2021-07-03
     categories: vue #分类
     tags: vue  #标签
     comments: true 
