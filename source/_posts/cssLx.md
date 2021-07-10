@@ -9,8 +9,8 @@ tags: css练习实践  #标签
 # jq点击按钮触发css3动画
 
 > 其实很简单，没有想象的那么复杂，实现方法主要是向`#aaa`添加动画属性。
-
 <!-- more --> 
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
