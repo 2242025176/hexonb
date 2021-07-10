@@ -12,7 +12,7 @@
 > 繁琐不简洁
 >
 > 不直观，一眼看不出 渲染的 元素到底是什么结构
-
+<!-- more --> 
 ```jsx
  const title = React.createElement(
         'h1',

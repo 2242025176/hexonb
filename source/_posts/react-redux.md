@@ -12,7 +12,7 @@
 > react-redux 是 redux 官方出的配合 react 绑定的库
 
 > react-redux 可以 让开发者 很容易从 redux store 中读取数据，并向store中分发 actions 以此来更新数据
-
+<!-- more --> 
 # 安装 React Redux
 
 Redux 默认并不包含 [React 绑定库](https://github.com/reactjs/react-redux)，需要单独安装。

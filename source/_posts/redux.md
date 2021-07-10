@@ -10,7 +10,7 @@
 >    简单明了的说明，就是`状态管理`。
 
 注： react 和 redux 是没有关系的，redux 可以 在 javascript 、jquery 等等，语言或框架中使用
-
+<!-- more --> 
 ### **redux中文文档：**http://cn.redux.js.org/
 
 ### 使用场景：
