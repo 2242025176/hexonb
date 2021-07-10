@@ -8,7 +8,17 @@ tags: css练习实践  #标签
 
 # jq点击按钮触发css3动画
 
-> 其实很简单，没有想象的那么复杂，实现方法主要是向`#aaa`添加动画属性
+> 其实很简单，没有想象的那么复杂，实现方法主要是向`#aaa`添加动画属性。
+>
+> 为了更明了的阅读这里解读css3的语法
+>
+> transform属性应用于元素的`2D或3D`转换。这个属性允许你将元素旋转，缩放，移动，倾斜等。
+>
+> scale() 定义 2D 缩放转换。
+>
+> rotate() 定义 2D 旋转，在参数中规定角度。
+>
+> deg单位在css3文章中有介绍：**度（Degress）。一个圆共360度**
 
 ```html
 <!DOCTYPE html>
@@ -23,9 +33,10 @@ tags: css练习实践  #标签
           width: 100px;
           height: 100px;
           background: blue;
-          transition: width 2s;
+          /* transition: width 2s; 过度动画 */
         }
-        @keyframes xin {
+        /* 使用@keyframes规则，你可以创建动画。 */
+        @keyframes xin { 
             0% {
                 transform:translate(-50%, -50%) scale(1)rotate(45deg);
             }
