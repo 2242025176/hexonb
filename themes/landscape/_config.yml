@@ -1004,7 +1004,7 @@ vendors:
   canvas_sphere:
   auto_excerpt:
     enable: true
-    length: 100 #默认截取全文开篇前150字，可自行修改
+    length: 50 #默认截取全文开篇前150字，可自行修改
 #分享
 needmoreshare2:
   enable: true
