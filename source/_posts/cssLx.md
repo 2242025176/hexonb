@@ -19,7 +19,7 @@ tags: css练习实践  #标签
 > rotate() 定义 2D 旋转，在参数中规定角度。
 >
 > deg单位在css3文章中有介绍：**度（Degress）。一个圆共360度**
-
+<!-- more --> 
 ```html
 <!DOCTYPE html>
 <html lang="en">
