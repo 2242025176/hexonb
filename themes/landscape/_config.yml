@@ -436,8 +436,8 @@ font:
   # Global font settings used for all elements inside <body>.
   global:
     external: true
-    family: Lato
-    size:
+    family: Georgia, serif
+    size: 1.15
 
   # Font settings for site title (.site-title).
   title:
