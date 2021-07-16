@@ -87,7 +87,8 @@ code {
     background: #f5f5d5;
 }
 .menu-item-active a, .menu .menu-item a:hover, .menu .menu-item span.exturl:hover {
-    background: #e6e6b1;
+    background: #f5f5d5;
+    box-shadow: inset -5px 5px 10px #e4e4c6, inset 5px -5px 10px #ffffe4;
 }
 .sidebar-inner {
     background: #f5f5d5;
@@ -102,4 +103,39 @@ code {
 a:hover, span.exturl:hover {
     border-bottom-color: #f66f95;
     color: #f66f95;
+}
+
+.posts-expand .post-header {
+    font-size: 1.125em;
+    background: #f5f5d5;
+    box-shadow: inset -5px 5px 10px #e4e4c6, inset 5px -5px 10px #ffffe4;
+}
+.post-body {
+    font-size: 1em;
+    background: #f5f5d5;
+    box-shadow: inset -5px 5px 10px #e4e4c6, inset 5px -5px 10px #ffffe4;
+}
+
+.btn {
+    border: 2px solid var(--btn-default-border-color);
+    border-radius: 2px;
+    color: var(--btn-default-color);
+    display: inline-block;
+    font-size: 0.875em;
+    line-height: 2;
+    padding: 0 20px;
+    text-decoration: none;
+    transition-property: background-color;
+    transition-delay: 0s;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
+}
+a, span.exturl {
+    border-bottom: 0px solid #999;
+    color: var(--link-color);
+    outline: 0;
+    text-decoration: none;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    cursor: pointer;
 }
