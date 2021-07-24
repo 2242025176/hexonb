@@ -2,6 +2,16 @@
 # Theme Core Configuration Settings
 # See: https://theme-next.org/docs/theme-settings/
 # ---------------------------------------------------------------
+  # Progress bar in the top during page loading.
+# Dependencies: https://github.com/theme-next/theme-next-pace
+pace: true #是否开启进度条
+# Themes list:
+# pace-theme-big-counter | pace-theme-bounce | pace-theme-barber-shop | pace-theme-center-atom
+# pace-theme-center-circle | pace-theme-center-radar | pace-theme-center-simple | pace-theme-corner-indicator
+# pace-theme-fill-left | pace-theme-flash | pace-theme-loading-bar | pace-theme-mac-osx | pace-theme-minimal
+# For example
+pace_theme: pace-theme-flash #选择进度条样式
+
 #搜索
 search:
   path: search.xml
@@ -1027,15 +1037,7 @@ needmoreshare2:
        #可分享网站
       networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
 
-  # Progress bar in the top during page loading.
-# Dependencies: https://github.com/theme-next/theme-next-pace
-pace: true #是否开启进度条
-# Themes list:
-# pace-theme-big-counter | pace-theme-bounce | pace-theme-barber-shop | pace-theme-center-atom
-# pace-theme-center-circle | pace-theme-center-radar | pace-theme-center-simple | pace-theme-corner-indicator
-# pace-theme-fill-left | pace-theme-flash | pace-theme-loading-bar | pace-theme-mac-osx | pace-theme-minimal
-# For example
-pace_theme: pace-theme-flash #选择进度条样式
+
 
   # Internal version: 1.0.0
   # canvas_ribbon: //cdn.jsdelivr.net/gh/theme-next/theme-next-canvas-ribbon@1/canvas-ribbon.js
