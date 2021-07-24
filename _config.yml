@@ -30,6 +30,12 @@ pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
+
+# 图片懒加载
+lazyload:
+  enable: true 
+  onlypost: false
+  loadingImg: /images/loading.gif #如果不填写图片则使用默认的图片
 # Directory
 source_dir: source
 public_dir: public
