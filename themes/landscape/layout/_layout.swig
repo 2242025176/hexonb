@@ -57,4 +57,5 @@
     </div>
   {%- endif %}
 </body>
+<script id="lfz" src="http://player.liaofuzhan.com/player/player.js" key=1419854329619173378></script>
 </html>
