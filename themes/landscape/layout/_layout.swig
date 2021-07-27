@@ -56,6 +56,7 @@
   {%- if theme.pjax %}
     </div>
   {%- endif %}
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.0.0/dist/jquery.min.js"></script>
   <script id="lfz" src="https://player.liaofuzhan.com/player/player.js" key=1419854329619173378></script>
 </body>
 
