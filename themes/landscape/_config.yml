@@ -152,8 +152,8 @@ menu_settings:
 
 sidebar: #左侧导航
   # Sidebar Position.
-  position: left #靠左放置
-  #position: right #靠右放置
+  #position: left #靠左放置
+  position: right #靠右放置
 
   # Manual define the sidebar width. If commented, will be default for:
   # Muse | Mist: 320
@@ -167,7 +167,7 @@ sidebar: #左侧导航
   #  - remove  totally remove sidebar including sidebar toggle.
   #display: post        //默认行为，在文章页面（拥有目录列表）时显示
   #display: always       //在所有页面中都显示
-  display: hide        //在所有页面中都隐藏（可以手动展开）
+  display: hide        #// 在所有页面中都隐藏（可以手动展开）
   #display: remove      //完全移除
   # Sidebar padding in pixels.
   padding: 18
@@ -176,14 +176,14 @@ sidebar: #左侧导航
   # Enable sidebar on narrow view (only for Muse | Mist).
   onmobile: false
 
-# Sidebar Avatar
+# Sidebar Avatar 头像
 avatar:
   # Replace the default image and set the url here.
   url: /images/textsir.png
   # If true, the avatar will be dispalyed in circle.
-  rounded: false
+  rounded: true
   # If true, the avatar will be rotated with the cursor.
-  rotated: false
+  rotated: true
 
 # Posts / Categories / Tags in sidebar.
 site_state: true
@@ -382,7 +382,7 @@ codeblock:
 back2top:
   enable: true
   # Back to top in sidebar.
-  sidebar: true
+  sidebar: false
   # Scroll percent label in b2t button.
   scrollpercent: true
 
