@@ -1,10 +1,8 @@
 ---
-    title: css常用
-	top: 5
-    date: 2021-06-27 #发布时间
-    categories: css #分类
-    tags: css  #标签
-	
+title: css常用
+date: 2021-06-27 #发布时间
+categories: css #分类
+tags: css  #标签
 ---
 
 ## 一、css的方法和选择器用法：
