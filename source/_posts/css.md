@@ -3,7 +3,7 @@
     date: 2021-06-27 #发布时间
     categories: css #分类
     tags: css  #标签
-	top: 2
+	top: true
 ---
 
 ## 一、css的方法和选择器用法：
