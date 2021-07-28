@@ -1,8 +1,10 @@
 ---
 title: es6常用
+top: 3
 date: 2021-06-27
 categories: es6
 tags: es6  #标签
+
 ---
 
 # 		ES6 常用：
