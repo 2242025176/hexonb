@@ -10,10 +10,10 @@ comments: false #关闭评论
 			<div class="gallery-item">
 				<a href="https://wuhaidong.vercel.app/gallery/photo01"><img src="https://gitee.com/imagess/hexo-imags/raw/master/dhxy.png">
 				</a>
-				<p>- ！相册2 -</p>
+				<p>- 大圣娶亲 -</p>
 			</div>
 		</div>
-		<div class="gallery-column">
+		<!-- <div class="gallery-column">
 			<div class="gallery-item">
 				<a href="sample"><img src="https://gitee.com/imagess/hexo-imags/raw/master/dhxy.png">
 				</a>
@@ -26,7 +26,7 @@ comments: false #关闭评论
 				</a>
 				<p>- 相册名 -</p>
 			</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 
