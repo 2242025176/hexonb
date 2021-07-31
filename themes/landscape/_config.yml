@@ -46,6 +46,7 @@ custom_file_path:
   variable: source/_data/variables.styl
   mixin: source/_data/mixins.styl
   style: source/_data/styles.styl
+  custom: source/_data/custom.styl
 
 
 # ---------------------------------------------------------------
@@ -135,7 +136,7 @@ menu:
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
-  gallery: /gallery/ || fa fa-fw fa-photo 
+  gallery: /照片/ || fa fa-fw fa-photo 
   # schedule: /schedule/ || fa fa-calendar
   # sitemap: /sitemap.xml || fa fa-sitemap
   # commonweal: /404/ || fa fa-heartbeat

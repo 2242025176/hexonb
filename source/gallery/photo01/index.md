@@ -1,4 +1,8 @@
+---
 
+title: 图片1
+comments: false #关闭评论
+---
 <div class="gallery-page">
 	<div class="img-list">
 		<div class="img-column">

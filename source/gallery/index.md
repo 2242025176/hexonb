@@ -1,3 +1,8 @@
+---
+
+title: 图片
+comments: false #关闭评论
+---
 
 <div class="gallery-page">
 	<div class="gallery-list">
