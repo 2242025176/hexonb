@@ -33,7 +33,7 @@
 
 能够把多个平台上的数据，生成类似 GitHub 绿墙图像的工具。比如能够把发推的频率、扇贝单词打卡等情况生成类似 GitHub 绿墙图像
 
-![img](https://img.hellogithub.com/hellogithub/63/img/GitHubPoster.png)
+![img](https://gitee.com/imagess/hexo-imags/raw/master/GitHubPoster.png)
 
 <br/>
 
@@ -41,7 +41,7 @@
 
 用来构建社区的 Ruby 开源项目。一款开源、现成的论坛项目，能够让你快速搭建起来一个社区平台。
 
-![img](https://img.hellogithub.com/hellogithub/63/img/forem.png)
+![img](https://gitee.com/imagess/hexo-imags/raw/master/forem.png)
 
 <br/>
 
@@ -55,7 +55,7 @@
 
 如下图可以直观的看到，视频与人体&&面部的动作交互，可以实现`隔空翻动页面`包括`手势`翻动和`面部`翻动。就不过的的介绍了，官网有demo可以亲自上手体验
 
-![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X2dpZi93b2tOSlJmMHl0cXZRbTJpYWtaT3FpYmtKOHhzaWIyVWg3bVZ6SEFpYkFTQm01ME5BcGJWSUJrZGhlSTRnQTRVQmRWRFVzUlNvQXB6VHdZQjhpYkVkSmNCM3pBLzY0MA?x-oss-process=image/format,png)
+![img](../images/gif.gif)
 
 <br/>
 
@@ -67,7 +67,7 @@
 
 > `kotlin` 最突出的方案是： `多平台`,现在支持的平台有JVM，Android，Javascript，iOS、Linux、Windows、Mac等，几乎覆盖所有的平台。
 
-![img](https://upload-images.jianshu.io/upload_images/2959136-d6739a079dfcc11d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1200)
+![img](https://gitee.com/imagess/hexo-imags/raw/master/web.png)
 
 <br/>
 
@@ -111,7 +111,7 @@ Git 新加了两个命令：git `switch` 用来切换分支，git `restore` 用�
 
 **Blender**是一款免费开源[三维](https://baike.baidu.com/item/三维/9517577)图形图像软件，提供从建模、动画、材质、[渲染](https://baike.baidu.com/item/渲染/3662013)、到音频处理、视频剪辑等一系列动画短片制作解决方案。
 
-![img](https://code.blender.org/wp-content/uploads/2021/06/StampInfo_RenderScreen.jpg)
+![img](https://gitee.com/imagess/hexo-imags/raw/master/StampInfo_RenderScreen.png)
 
 <br/>
 
