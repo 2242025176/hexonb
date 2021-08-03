@@ -77,7 +77,7 @@
 
 [ruanyf(阮一峰)](https://weibo.com/u/1400854834) —— `微博`
 
-Git 新加了两个命令：git `switch` 用来切换分支，git `restore` 用来恢复原样，可以取代 git checkout。[![img](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](http://weibo.cn/sinaurl?toasturl=https%3A%2F%2Fwww.banterly.net%2F2021%2F07%2F31%2Fnew-in-git-switch-and-restore%2F) 
+Git 新加了两个命令：git `switch` 用来切换分支，git `restore` 用来恢复原样，可以取代 git checkout。[网页链接](http://weibo.cn/sinaurl?toasturl=https%3A%2F%2Fwww.banterly.net%2F2021%2F07%2F31%2Fnew-in-git-switch-and-restore%2F) 
 
 <br/>
 
