@@ -30,13 +30,15 @@ computed:{
 }
 ```
 
-		通过导入 mapstate 函数，将当前组件需要的全局数据，映射为当前组件的 computed 计算属性
+​	通过导入 `mapstate` 函数，将当前组件需要的全局数据，映射为当前组件的 `computed `计算属性
 
 # 2. Mutation
 
 - ### 更改 Vuex 的 store 中的状态、的`唯一方法`是提交 mutation。
 
-- 注：不要在 mutations  里执行异步操作；简单理解异步操作 ：异步api 往往 都会有回调函数 
+- 注：不要在 mutations  里执行异步操作；
+
+  ​		简单理解异步操作 ：异步api 往往 都会有回调函数 
 
 #### 2.1 更改store 中的状态   （定义 mutations 里的 更改方法（add）） ：
 
@@ -68,7 +70,7 @@ const store = new Vuex.Store({
 
 #### 2.2  在触发 mutations  时传递参数：
 
-- ### 		你可以向 `store.commit` 传入**`额外的参数`** 用官方的话说叫	提交载荷（Payload）
+- ### 		你可以向 `store.commit`  传入 `额外的参数` 用官方的话说叫	提交载荷（Payload）
 
 ####        事件触发 mutations 里定义的addN  并 携带 参数
 
@@ -196,13 +198,13 @@ btn4(){
   }
 ```
 
-		在页面中引用：
+​	在页面中引用：
 
 ```js
 import {mapActions} from 'vuex'
 ```
 
-			调用：
+​	调用：
 
 ```js
  methods:{
