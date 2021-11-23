@@ -438,17 +438,7 @@ document.getElementById("demo").innerHTML=x;
 
 ## 
 
-## 12.遇到一个问题 `indexOf is undefind`；
 
-此错误是 数组为空 ；附上判断数组的方法
 
-```js
-let arr = [];
-if (arr.length == 0){
-   console.log("数组为空")
-}else {
-   console.log("数组不为空")
-}
-```
 
 
