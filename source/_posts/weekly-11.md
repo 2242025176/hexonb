@@ -9,7 +9,7 @@
 
 ## 黑客与画家
 
-       黑客是一个中文词语，皆源自英文hacker，
+黑客是一个中文词语，皆源自英文hacker，
 
   “黑客”这个词的原始含义就是指那些信奉“黑客伦理”而且能力高超的程序员。历史上一些最优秀的程序员都是“黑客”。除了上文提到的理查德·斯托尔曼，还包括Unix操作系统创始人丹尼斯·里奇和肯·汤普森，经典巨著《计算机程序设计艺术》的作者、斯坦福大学计算机教授高德纳，Linux操作系统创始人莱纳斯·托沃兹，“开源运动”创始人埃里克·雷蒙德，微软公司创始人比尔·盖茨等。正是黑客把计算机工业推向了更高的高度。  
 　　“黑客伦理”的一个必然推论就是，黑客不服从管教，具有叛逆精神。
@@ -24,11 +24,11 @@
 
 ### 字节跳动开源ui - [Semi](https://semi.design/zh-CN/)
 
-![](https://lf9-static.semi.design/obj/semi-tos/images/f54dfa40-33dd-11ec-adec-e911cea4cf98.png)
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c6de775c99f24d258c86d3c67435c9d9~tplv-k3u1fbpfcp-watermark.image)
 
 ### Chrome 浏览器插件 context-note，可以对网页做笔记，下次打开该网页，笔记就会显示，并提供富文本编辑器和笔记分类标签
 
-![](https://wx4.sinaimg.cn/mw2000/537f5932gy1gvvxiqwh79j20hs0b4jtg.jpg)
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/93e8803792394ff9b4a415207dca3ce8~tplv-k3u1fbpfcp-zoom-crop-mark:1304:1304:1304:734.image?)
 
 
 
@@ -106,8 +106,7 @@
 
   ### [前端简史  ](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247486487&idx=1&sn=2d6c4d5da5b66f4a1a94983eb310816d&scene=21#wechat_redirect)
 
-    讲解了前端 岗位的诞生，延伸出 前后端分离的模式，最先诞生 mvc 单线程模式，最后出现 mvvm ，去掉了 MVC 中的 Controller，增加了数据的双向绑定。
+讲解了前端 岗位的诞生，延伸出 前后端分离的模式，最先诞生 mvc 单线程模式，最后出现 mvvm ，去掉了 MVC 中的 Controller，增加了数据的双向绑定。
 
   
 
-  
