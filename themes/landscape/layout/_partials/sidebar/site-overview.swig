@@ -78,6 +78,7 @@
   <div class="links-of-author motion-element">
     {%- for name, link in theme.social %}
       <span class="links-of-author-item">
+      <a target="_blank" href="https://www.amazon.cn/b?_encoding=UTF8&tag=mytext-23&linkCode=ur2&linkId=165f89fb7c27e60ced74c9ee17bee93a&camp=536&creative=3200&node=116087071">100本畅销书</a>
       {%- set sidebarURL = link.split('||')[0] | trim %}
       {%- if theme.social_icons.enable %}
         {%- set sidebarIcon = '<i class="' + link.split('||')[1] | trim + ' fa-fw"></i>' %}
